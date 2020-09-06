@@ -1,0 +1,24 @@
+{
+  "name": "DjangoReactApp",
+  "version": "1.0.0",
+  "description": "according to videos from Traversy https://www.youtube.com/watch?v=Uyei2iDA4Hs&amp;list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/George253/DjangoReactApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/George253/DjangoReactApp/issues"
+  },
+  "homepage": "https://github.com/George253/DjangoReactApp#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
