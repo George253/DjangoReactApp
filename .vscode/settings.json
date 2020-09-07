@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\hertzg\\.virtualenvs\\DjangoReactApp-nEGsiHl9\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\hertzg\\.virtualenvs\\DjangoReactApp-nEGsiHl9\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
 }
